@@ -1,0 +1,18 @@
+
+.flex-container div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    div {
+        margin: 2px 1px;
+    }
+}
+
+.flex-items {
+
+}
+
+.danger {
+    color: #F32013 !important;
+}
